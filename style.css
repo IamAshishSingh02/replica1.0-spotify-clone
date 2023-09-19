@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+body{
+      background-color: rgba(0, 0, 0, 0.973);
+      margin-top: -80px;
+      padding-top: 50px;
+}
+*{
+    margin-left:0px;
+    padding:0px;
+    margin-top: 0px;
+}
+nav{
+    font-family: 'Mooli', sans-serif;
+}
+nav ul{
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    display:inline-table;
+    width: 300px;
+    margin-top: -110px;
+}
+nav ul li{
+    margin-left:10px;
+    padding: 0px 5px;
+}
+.brand img{
+    width: 150px;
+    margin-top: 10px;
+    padding: 0px 5px;
+}
+.brand:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+}
+.brand1 img{
+    width: 20px;
+}
+.brand1:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand2 img{
+    width: 20px;
+}
+.brand2:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand3 img{
+    width: 15px;
+}
+.brand3:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand4 img{
+    width: 20px;
+}
+.brand4:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand5 img{
+    width: 20px;
+}
+.brand5:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand6 img{
+    width: 20px;
+}
+.brand6:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.brand7 img{
+    width: 25px;
+}
+.brand7:hover{
+    background-color: rgb(0, 165, 0);
+    cursor: pointer;
+    padding: 6px;
+}
+.Container{
+    height:115px;
+    color: white;
+    margin-top: -15px;
+    background-color: rgba(29, 27, 27, 0.541);
+}
+.Container img{
+    width:100px;
+    padding:30px;
+}
+.SongName{
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    margin-left: 150px;
+    margin-top: -80px;
+    font-size: 20px;
+}
+.SingerName{
+    color: white;
+    margin-left: 150px;
+    margin-top: -px;
+    font-family: 'Mooli', sans-serif;
+    font-size: 13px;
+}
+.greenheart img{
+    width:20px;
+    margin-left: 300px;
+    margin-top: -55px;
+}
+.greenheart img:hover{
+    cursor: pointer;
+}
+.playbutton img{
+    width:40px;
+    margin-left: 950px;
+    height:100px;
+    margin-top: -200px;
+}
+.playbutton img:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.skipprevious img{
+    width:30px;
+    height: 200px;
+    margin-left: 915px;
+    margin-top: -215px;
+}
+.skipforward img{
+    width: 30px;
+    height: 250px;
+    margin-left: 995px;
+    margin-top: -288px;
+}
+.skipforward img:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.shufflebutton img{
+    width: 20px;
+    height: 350px;
+    margin-left: 860px;
+    margin-top: -365px;
+}
+.shufflebutton img:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.repeatbutton img{
+    width: 25px;
+    height:400px;
+    margin-top: -438px;
+    margin-left: 1055px;
+}
+.repaeatbutton img:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.timebar img{
+    width:600px;
+    height:500px;
+    margin-left: 650px;
+    margin-top: -480px;
+}
+.timebar:hover{
+    cursor: pointer;
+
+}
+.timestart{
+    margin-left: 645px;
+    height:600px;
+    margin-top: -295px;
+}
+.timeend{
+    margin-left: 1290px;
+    height: 600px;
+    margin-top: -600px;
+}
+.container2{
+    color: white;
+    margin-left: 350px;
+    margin-top: -830px;
+    font-size: 20px;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+}
+.container3{
+    color: white;
+    margin-left: 350px;
+    margin-top: 340px;
+    font-size: 20px;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+}
+.box1{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(189, 135, 224);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+    margin-left: 350px;
+    font-size: 50px;
+    margin-top: -680px;
+    padding: 20px;
+    padding-left: 20px;
+}
+.box1:hover{
+    cursor: pointer;
+}
+.box2{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(243, 130, 0);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+    margin-left: 950px;
+    font-size: 50px;
+    margin-top: -290px;
+    padding: 20px;
+    padding-left: 20px; 
+}
+.box2:hover{
+    cursor: pointer;
+}
+.box3{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: rgb(3, 238, 109);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    margin-left: 350px;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 80px;
+    padding: 20px;
+    padding-left: 20px; 
+}
+.box3:hover{
+    cursor: pointer;
+}
+.box4{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: rgb(2, 24, 122);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    margin-left: 630px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -270px;
+    padding: 20px;
+    padding-left: 20px; 
+}
+.box4:hover{
+    cursor: pointer;
+}
+.box5{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: rgb(189, 135, 224);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    margin-left: 910px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -270px;
+    padding: 20px;
+    padding-left: 20px; 
+}
+.box5:hover{
+    cursor: pointer;
+}
+.box6{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: rgb(207, 2, 71);
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    margin-left: 1190px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -270px;
+    padding: 20px;
+    padding-left: 20px; 
+}
+.box6:hover{
+    cursor: pointer;
+}
+.searchbar img{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.searchbar img:hover{
+    cursor: pointer;
+}
+.searchbar{
+    background-color: white;
+    width: 500px;
+    margin-left: 500px;
+    border-radius: 100px;
+    margin-top: 40px;
+    font-family: 'Mooli', sans-serif;
+    font-size: 20px;
+}
+
